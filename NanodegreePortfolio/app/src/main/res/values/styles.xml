@@ -1,0 +1,29 @@
+<resources>
+
+    <style name="AppTheme" parent="AppTheme.Base" />
+    <!-- Base application theme.
+         Defining this lets values-v21/styles.xml reuse it with changes. -->
+
+
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+
+    </style>
+
+
+    <style name="ProjectButtonTheme">
+    </style>
+
+    <style name="ProjectButtonTheme.Base" parent="ProjectButtonTheme">
+        <item name="colorButtonNormal">@color/colorAccent</item>
+    </style>
+
+    <style name="ProjectButtonTheme.Highlight" parent="ProjectButtonTheme">
+        <item name="colorButtonNormal">@color/colorAccentDark</item>
+    </style>
+
+</resources>

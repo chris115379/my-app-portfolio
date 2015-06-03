@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Portfolium</string>
+    <string name="app_subtitle">Manage your Success</string>
+    <string name="portfolio_title">Nanodegree portfolio:</string>
+    <string name="action_about">About me</string>
+
+    <string name="project_one">Spotify Streamer</string>
+    <string name="project_two">Scores App</string>
+    <string name="project_three">Library App</string>
+    <string name="project_four">Build it Bigger</string>
+    <string name="project_five">Bacon Reader</string>
+    <string name="project_six">Capstone: Project X</string>
+    <string name="action_settings">Settings</string>
+</resources>
